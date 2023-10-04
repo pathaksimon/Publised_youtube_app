@@ -1,0 +1,60 @@
+.login-container {
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-card {
+  width: 40%;
+  background-color: blue;
+  border: none;
+}
+
+.login-card-top {
+  background-color: brown;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.bottom-card-login {
+  background-color: yellow;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.login-logo {
+  width: 60%;
+}
+
+.bring-center {
+  width: 85%;
+  background-color: aquamarine;
+  margin-top: 35px;
+}
+
+.inputtoppy {
+  margin-top: 10px;
+}
+
+.login-button {
+  width: 100%;
+  color: white;
+  margin-top: 25px;
+  background-color: #3b82f6;
+}
+.input1 {
+  width: 70%;
+}
+
+@media (max-width: 767px) {
+  .login-card {
+    width: 100%;
+  }
+}
+
+.msg {
+  color: red;
+}

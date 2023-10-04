@@ -1,0 +1,23 @@
+.bg-Home {
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.toggle-background-black {
+  background-color: black;
+}
+
+.toggle-background-white {
+  background-color: white;
+}
+
+.loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.chalo {
+  background-color: green;
+}
